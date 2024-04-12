@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
     ///  amely futtatáskor kiírja az aktuális dátumot
     ///  (ÉÉÉÉ-HH-NN formátumban). Használjuk a QDate osztályt.
     ///this is the date class
-    /*QDate date = QDate::currentDate();
+    QDate date = QDate::currentDate();
     QString sdate = date.toString("yyyy-MM-dd");
 
     //this is the "window" class
@@ -27,7 +27,7 @@ int main(int argc, char *argv[])
     ///set the size of the window
     label.resize(400,200);
     ///show the window
-    label.show();*/
+    label.show();
 
     w.show();
     return a.exec();
