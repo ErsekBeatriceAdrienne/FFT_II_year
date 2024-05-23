@@ -1,9 +1,0 @@
-MongoDB server Messages
-
-felhasznalo : 	ersekbeatrice
-jelszo : 		TiDOC6yC7KQjX82s2024
-
-IP Access List : 82.77.240.66/32
-Description : Created as part of the Auto Setup process
-
-Connection String : mongodb+srv://ersekbeatrice:TiDOC6yC7KQjX82s2024@messages.wmrxct5.mongodb.net/?retryWrites=true&w=majority&appName=Messages
